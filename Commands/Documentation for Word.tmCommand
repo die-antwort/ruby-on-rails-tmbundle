@@ -15,9 +15,9 @@ open "http://apidock.com/rails/search/quick?query=$TM_CURRENT_WORD"
 	<key>inputFormat</key>
 	<string>text</string>
 	<key>keyEquivalent</key>
-	<string>^h</string>
+	<string>^H</string>
 	<key>name</key>
-	<string>Help (APIDock Rails)</string>
+	<string>Documentation for Word (APIDock Rails)</string>
 	<key>outputCaret</key>
 	<string>afterOutput</string>
 	<key>outputFormat</key>
@@ -25,7 +25,7 @@ open "http://apidock.com/rails/search/quick?query=$TM_CURRENT_WORD"
 	<key>outputLocation</key>
 	<string>newWindow</string>
 	<key>scope</key>
-	<string>source.ruby.rails, text.html.erb.rails, text.haml</string>
+	<string>source.ruby.rails &amp; attr.os-version.10.9, text.html.erb.rails, text.haml</string>
 	<key>semanticClass</key>
 	<string>lookup.define.ruby.rails</string>
 	<key>uuid</key>
