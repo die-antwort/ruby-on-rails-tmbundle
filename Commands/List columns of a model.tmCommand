@@ -14,15 +14,21 @@ RUBYLIB="$TM_BUNDLE_SUPPORT/lib:$RUBYLIB"
 	<string>word</string>
 	<key>input</key>
 	<string>selection</string>
-	<key>keyEquivalent</key>
-	<string>~ </string>
+	<key>inputFormat</key>
+	<string>text</string>
 	<key>name</key>
 	<string>List columns of a model</string>
-	<key>output</key>
+	<key>outputCaret</key>
+	<string>afterOutput</string>
+	<key>outputFormat</key>
+	<string>text</string>
+	<key>outputLocation</key>
 	<string>discard</string>
 	<key>scope</key>
 	<string>source.ruby.rails</string>
 	<key>uuid</key>
 	<string>CF489B31-5DD2-4B83-B503-AD3ECF7BDEB7</string>
+	<key>version</key>
+	<integer>2</integer>
 </dict>
 </plist>
